@@ -14,3 +14,5 @@
          </Routes>
          <Toaster />
        </div>
+
+export default ModerationTest
